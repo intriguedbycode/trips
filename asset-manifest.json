@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/trips/static/css/main.c3c9c4cf.css",
+    "main.js": "/trips/static/js/main.a6ede734.js",
+    "static/media/beach.jpg": "/trips/static/media/beach.f28f74bd673a65f469a0.jpg",
+    "index.html": "/trips/index.html",
+    "main.c3c9c4cf.css.map": "/trips/static/css/main.c3c9c4cf.css.map",
+    "main.a6ede734.js.map": "/trips/static/js/main.a6ede734.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3c9c4cf.css",
+    "static/js/main.a6ede734.js"
+  ]
+}
